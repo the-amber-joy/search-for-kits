@@ -3,7 +3,7 @@ User enters their Kit Label ID and selects from the autocomplete list to get shi
 
 ## To Run this App
 
-From the project root, run this command:
+From the project root, run this command from the root of the project:
 
 ### `npm run dev`
 This will install all packages for backend and frontend, start the Express server (which provides a mini "API" serving requested data at the `/kits` endpoint), starts the React client, and opens a browser to http://localhost:3000
